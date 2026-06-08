@@ -88,7 +88,8 @@ show_banner() {
     -------------------------------------------
                                                
             Termux Linux Setup Script          
-                                               
+
+                by Junaed Ahmad                                      
     -------------------------------------------
 BANNER
     echo -e "${NC}"
