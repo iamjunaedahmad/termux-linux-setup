@@ -85,12 +85,14 @@ show_banner() {
     clear
     echo -e "${CYAN}"
     cat << 'BANNER'
-    -------------------------------------------
-                                               
-            Termux Linux Setup Script          
+    ==================================================
+                  TERMUX LINUX SETUP                  
+    ==================================================
+        Developed by : Md. Junaed Ahmad                 
+        GitHub       : github.com/iamjunaedahmad         
+        Version      : 1.0.0                             
+    ==================================================
 
-                by Junaed Ahmad                                      
-    -------------------------------------------
 BANNER
     echo -e "${NC}"
     echo ""
